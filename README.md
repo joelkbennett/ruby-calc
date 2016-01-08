@@ -1,5 +1,6 @@
 Ruby Calc
----------
+=========
+
 ```ruby
 class Calculator
   def add a, b
@@ -11,3 +12,8 @@ class Calculator
   end
 end
 ```
+
+Notes
+-----
+
+- Did I miss instructions to elaborate on this? Guess I'll find out!
